@@ -245,4 +245,4 @@ This project demonstrates advanced concepts in:
 
 ## License
 
-Academic/Research project - see institutional guidelines for usage terms.
+MIT License
