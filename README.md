@@ -1,6 +1,6 @@
 # Black-Litterman Portfolio Rebalancer
 
-**Advanced Portfolio Management System with Black-Litterman Optimization**
+**Portfolio Management System with Black-Litterman Optimization**
 
 A comprehensive Python implementation of portfolio optimization and rebalancing using the Black-Litterman model, built with real financial data from Refinitiv Eikon. The system enables portfolio management strategies with dynamic rebalancing, market view integration, and performance analysis.
 
