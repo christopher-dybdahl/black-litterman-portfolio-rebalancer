@@ -40,7 +40,7 @@ E[R] = [(τΣ)⁻¹ + Pᵀ Ω⁻¹ P]⁻¹ [(τΣ)⁻¹ Π + Pᵀ Ω⁻¹ Q]
 
 before mean–variance optimisation. Because views switch on and off with
 market triggers, the target portfolio is time-varying: rebalancing policy
-and view policy interact, which is the interesting part of the problem.
+and view policy interact.
 
 ## What's here
 
@@ -65,7 +65,7 @@ weight evolution (`weights_1.png`, `weights_2.png`) and Sharpe comparison
 - Threshold-band policies achieve comparable tracking with far fewer trades.
 - Trigger-activated views concentrate turnover in regime shifts (notably
   the 2020 drawdown), which is where re-optimising the target allocation
-  actually pays.
+  adds the most value.
 
 ## Setup
 
